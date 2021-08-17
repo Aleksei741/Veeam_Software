@@ -1,0 +1,12 @@
+<config>
+    <file
+            source_path="/home/alekseim"
+            destination_path="/home/alekseim/Downloads"
+            file_name="file1.txt"
+    />
+    <file
+            source_path="/home/alekseim"
+            destination_path="/home/alekseim/Documents"
+            file_name="file2.txt"
+    />
+</config>
